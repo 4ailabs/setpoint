@@ -1,7 +1,8 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 
 const tabs = [
-    { id: 'inicio', label: 'Inicio', html: `
+    {
+        id: 'inicio', label: 'Inicio', html: `
 <header class="hero">
         <div class="container">
             <span class="stat-label">Instittuto Centrobioenergetica</span>
@@ -40,7 +41,8 @@ const tabs = [
         </div>
     </section>
 ` },
-    { id: 'metodologia', label: 'Metodología', html: `
+    {
+        id: 'metodologia', label: 'Metodología', html: `
 <section id="metodologia">
         <div class="container">
             <div class="section-title">
@@ -391,7 +393,8 @@ const tabs = [
         </div>
     </section>
 ` },
-    { id: 'guia', label: 'Guía Alumno', html: `
+    {
+        id: 'guia', label: 'Guía Alumno', html: `
 <section id="guia-alumno" class="roadmap-section">
         <div class="container">
             <div class="section-title">
@@ -509,7 +512,8 @@ const tabs = [
         </div>
     </section>
 ` },
-    { id: 'marcas', label: 'Marcas', html: `
+    {
+        id: 'marcas', label: 'Marcas', html: `
 <section id="marcas-temporales">
         <div class="container">
             <div class="section-title">
@@ -594,7 +598,8 @@ const tabs = [
         </div>
     </section>
 ` },
-    { id: 'mapa', label: 'Mapa Corporal', html: `
+    {
+        id: 'mapa', label: 'Mapa Corporal', html: `
 <section id="mapa-corporal">
         <div class="container">
             <div class="section-title">
@@ -652,7 +657,8 @@ const tabs = [
         </div>
     </section>
 ` },
-    { id: 'algoritmo', label: 'Algoritmo', html: `
+    {
+        id: 'algoritmo', label: 'Algoritmo', html: `
 <section id="algoritmo">
         <div class="container">
             <div class="section-title">
@@ -678,7 +684,8 @@ const tabs = [
         </div>
     </section>
 ` },
-    { id: 'conflictos', label: 'Conflictos', html: `
+    {
+        id: 'conflictos', label: 'Conflictos', html: `
 <section id="referencia-conflictos" class="conflicts-section">
     <div class="container">
         <div class="section-title">
@@ -1035,7 +1042,8 @@ const tabs = [
     </div>
 </section>
 ` },
-    { id: 'protocolos', label: 'Protocolos', html: `
+    {
+        id: 'protocolos', label: 'Protocolos', html: `
 <section id="protocolos" class="protocols-section">
         <div class="container">
             <div class="section-title">
@@ -3167,211 +3175,244 @@ const tabs = [
 ];
 
 function ProtocolsView({ protocols, selectedId, onSelect }) {
-  const selected = protocols.find((p) => p.id === selectedId);
+    const selectedIndex = protocols.findIndex((p) => p.id === selectedId);
+    const selected = protocols[selectedIndex];
 
-  const scrollNav = (direction) => {
-    const el = navRef.current;
-    if (!el) return;
-    const amount = Math.round(el.clientWidth * 0.7) * direction;
-    if (typeof el.scrollBy === 'function') {
-      el.scrollBy({ left: amount, behavior: 'smooth' });
-    } else {
-      el.scrollLeft += amount;
-    }
-  };
+    const handleNext = () => {
+        if (selectedIndex < protocols.length - 1) {
+            onSelect(protocols[selectedIndex + 1].id);
+        }
+    };
 
-  return (
-    <section className="protocols-section">
-      <div className="container">
-        <div className="section-title">
-          <h2>Protocolos de Reprocesamiento</h2>
-          <p>Selecciona un número para abrir el protocolo.</p>
-          <div className="divider"></div>
-        </div>
+    const handlePrev = () => {
+        if (selectedIndex > 0) {
+            onSelect(protocols[selectedIndex - 1].id);
+        }
+    };
 
-        <div className="protocols-index-grid">
-          {protocols.map((protocol) => (
-            <button
-              key={protocol.id}
-              className={`protocol-index-card ${selectedId === protocol.id ? 'active' : ''}`}
-              onClick={() => onSelect(protocol.id)}
-              type="button"
-            >
-              <span className="protocol-index-number">#{protocol.id}</span>
-              <span className="protocol-index-title">{protocol.title}</span>
-            </button>
-          ))}
-        </div>
+    const scrollNav = (direction) => {
+        const el = document.querySelector('.protocols-index-grid'); // Fixed ref
+        if (!el) return;
+        const amount = Math.round(el.clientWidth * 0.7) * direction;
+        if (typeof el.scrollBy === 'function') {
+            el.scrollBy({ left: amount, behavior: 'smooth' });
+        } else {
+            el.scrollLeft += amount;
+        }
+    };
 
-        {selected ? (
-          <article id="protocol-detail" className="protocol-detail glass-card">
-            <div className="protocol-detail-header">
-              <h3>{selected.title}</h3>
-              <button className="protocol-close" type="button" onClick={() => onSelect(null)}>
-                Cerrar
-              </button>
+    return (
+        <section className="protocols-section">
+            <div className="container">
+                <div className="section-title">
+                    <h2>Protocolos de Reprocesamiento</h2>
+                    <p>Selecciona un número para abrir el protocolo.</p>
+                    <div className="divider"></div>
+                </div>
+
+                <div className="protocols-index-grid">
+                    {protocols.map((protocol) => (
+                        <button
+                            key={protocol.id}
+                            className={`protocol-index-card ${selectedId === protocol.id ? 'active' : ''}`}
+                            onClick={() => onSelect(protocol.id)}
+                            type="button"
+                        >
+                            <span className="protocol-index-number">#{protocol.id}</span>
+                            <span className="protocol-index-title">{protocol.title}</span>
+                        </button>
+                    ))}
+                </div>
+
+                {selected ? (
+                    <article id="protocol-detail" className="protocol-detail glass-card">
+                        <div className="protocol-detail-header">
+                            <h3>{selected.title}</h3>
+                            <button className="protocol-close" type="button" onClick={() => onSelect(null)}>
+                                Cerrar ✕
+                            </button>
+                        </div>
+                        <div className="protocol-detail-body" dangerouslySetInnerHTML={{ __html: selected.html }} />
+
+                        <div className="protocol-navigation">
+                            <button
+                                className="protocol-nav-btn prev"
+                                onClick={handlePrev}
+                                disabled={selectedIndex === 0}
+                            >
+                                &larr; Anterior
+                            </button>
+                            <div className="protocol-nav-info">
+                                Protocolo {selectedIndex + 1} de {protocols.length}
+                            </div>
+                            <button
+                                className="protocol-nav-btn next"
+                                onClick={handleNext}
+                                disabled={selectedIndex === protocols.length - 1}
+                            >
+                                Siguiente &rarr;
+                            </button>
+                        </div>
+                    </article>
+                ) : (
+                    <div className="protocol-detail-empty">
+                        Selecciona un protocolo para ver el contenido completo.
+                    </div>
+                )}
             </div>
-            <div className="protocol-detail-body" dangerouslySetInnerHTML={{ __html: selected.html }} />
-          </article>
-        ) : (
-          <div className="protocol-detail-empty">
-            Selecciona un protocolo para ver el contenido completo.
-          </div>
-        )}
-      </div>
-    </section>
-  );
+        </section>
+    );
 }
 
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('inicio');
-  const navRef = useRef(null);
+    const [activeTab, setActiveTab] = useState('inicio');
+    const navRef = useRef(null);
 
-  const protocolTab = useMemo(() => tabs.find((t) => t.id === 'protocolos'), []);
-  const protocols = useMemo(() => {
-    if (!protocolTab?.html || typeof window === 'undefined') return [];
-    const doc = new DOMParser().parseFromString(protocolTab.html, 'text/html');
-    const cards = Array.from(doc.querySelectorAll('.protocol-card'));
-    return cards.map((card, index) => {
-      const titleText = card.querySelector('h3')?.textContent?.trim() || `Protocolo ${index + 1}`;
-      const match = titleText.match(/PROTOCOLO\s+(\d+)/i);
-      const id = match ? match[1] : String(index + 1);
-      return { id, title: titleText.replace(/PROTOCOLO\s+\d+:\s*/i, '').trim(), html: card.innerHTML };
-    });
-  }, [protocolTab]);
-  const [selectedProtocol, setSelectedProtocol] = useState(null);
-
-
-  const activeHtml = useMemo(() => tabs.find((t) => t.id === activeTab)?.html ?? '', [activeTab]);
-
-  useEffect(() => {
-    const handleClick = (event) => {
-      const tabButton = event.target.closest('.tab-button');
-      if (tabButton) {
-        const tabName = tabButton.getAttribute('data-tab');
-        document.querySelectorAll('.tab-button').forEach((btn) => btn.classList.remove('active'));
-        document.querySelectorAll('.tab-content').forEach((content) => content.classList.remove('active'));
-        tabButton.classList.add('active');
-        const tabContent = document.getElementById(`tab-${tabName}`);
-        if (tabContent) tabContent.classList.add('active');
-        return;
-      }
-
-      const accordionHeader = event.target.closest('.accordion-header');
-      if (accordionHeader) {
-        const accordionItem = accordionHeader.parentElement;
-        const accordionContent = accordionHeader.nextElementSibling;
-        const isActive = accordionItem.classList.contains('active');
-        document.querySelectorAll('.accordion-item').forEach((item) => {
-          item.classList.remove('active');
-          const content = item.querySelector('.accordion-content');
-          if (content) content.style.maxHeight = '0';
+    const protocolTab = useMemo(() => tabs.find((t) => t.id === 'protocolos'), []);
+    const protocols = useMemo(() => {
+        if (!protocolTab?.html || typeof window === 'undefined') return [];
+        const doc = new DOMParser().parseFromString(protocolTab.html, 'text/html');
+        const cards = Array.from(doc.querySelectorAll('.protocol-card'));
+        return cards.map((card, index) => {
+            const titleText = card.querySelector('h3')?.textContent?.trim() || `Protocolo ${index + 1}`;
+            const match = titleText.match(/PROTOCOLO\s+(\d+)/i);
+            const id = match ? match[1] : String(index + 1);
+            return { id, title: titleText.replace(/PROTOCOLO\s+\d+:\s*/i, '').trim(), html: card.innerHTML };
         });
-        if (!isActive && accordionContent) {
-          accordionItem.classList.add('active');
-          accordionContent.style.maxHeight = accordionContent.scrollHeight + 'px';
+    }, [protocolTab]);
+    const [selectedProtocol, setSelectedProtocol] = useState(null);
+
+
+    const activeHtml = useMemo(() => tabs.find((t) => t.id === activeTab)?.html ?? '', [activeTab]);
+
+    useEffect(() => {
+        const handleClick = (event) => {
+            const tabButton = event.target.closest('.tab-button');
+            if (tabButton) {
+                const tabName = tabButton.getAttribute('data-tab');
+                document.querySelectorAll('.tab-button').forEach((btn) => btn.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach((content) => content.classList.remove('active'));
+                tabButton.classList.add('active');
+                const tabContent = document.getElementById(`tab-${tabName}`);
+                if (tabContent) tabContent.classList.add('active');
+                return;
+            }
+
+            const accordionHeader = event.target.closest('.accordion-header');
+            if (accordionHeader) {
+                const accordionItem = accordionHeader.parentElement;
+                const accordionContent = accordionHeader.nextElementSibling;
+                const isActive = accordionItem.classList.contains('active');
+                document.querySelectorAll('.accordion-item').forEach((item) => {
+                    item.classList.remove('active');
+                    const content = item.querySelector('.accordion-content');
+                    if (content) content.style.maxHeight = '0';
+                });
+                if (!isActive && accordionContent) {
+                    accordionItem.classList.add('active');
+                    accordionContent.style.maxHeight = accordionContent.scrollHeight + 'px';
+                }
+                return;
+            }
+
+            const subAccordionHeader = event.target.closest('.sub-accordion-header');
+            if (subAccordionHeader) {
+                const subAccordionContent = subAccordionHeader.nextElementSibling;
+                if (!subAccordionContent) return;
+                const isOpen = subAccordionContent.style.maxHeight && subAccordionContent.style.maxHeight !== '0px';
+                subAccordionContent.style.maxHeight = isOpen ? '0' : (subAccordionContent.scrollHeight + 400) + 'px';
+                return;
+            }
+
+            const timelineMarker = event.target.closest('.timeline-marker');
+            if (timelineMarker) {
+                document.querySelectorAll('.timeline-marker').forEach((m) => m.classList.remove('active'));
+                timelineMarker.classList.add('active');
+                return;
+            }
+
+            const zoneSelector = event.target.closest('.zone-selector');
+            if (zoneSelector) {
+                const zoneId = zoneSelector.dataset.zone;
+                document.querySelectorAll('.zone-selector').forEach((s) => s.classList.remove('active'));
+                document.querySelectorAll('.svg-zone').forEach((z) => {
+                    z.style.opacity = '0.1';
+                });
+                zoneSelector.classList.add('active');
+                const svgZone = document.getElementById(`svg-zone-${zoneId}`);
+                if (svgZone) {
+                    svgZone.style.opacity = '0.5';
+                    svgZone.style.fill = 'var(--accent-color)';
+                }
+            }
+
+            const svgZone = event.target.closest('.svg-zone');
+            if (svgZone) {
+                const zoneId = svgZone.id.replace('svg-zone-', '');
+                const selector = document.querySelector(`.zone-selector[data-zone="${zoneId}"]`);
+                if (selector) selector.click();
+            }
+        };
+
+        document.addEventListener('click', handleClick);
+        return () => document.removeEventListener('click', handleClick);
+    }, []);
+
+    useEffect(() => {
+        if (window.mermaid) {
+            window.mermaid.init(undefined, document.querySelectorAll('.mermaid'));
         }
-        return;
-      }
+    }, [activeTab]);
 
-      const subAccordionHeader = event.target.closest('.sub-accordion-header');
-      if (subAccordionHeader) {
-        const subAccordionContent = subAccordionHeader.nextElementSibling;
-        if (!subAccordionContent) return;
-        const isOpen = subAccordionContent.style.maxHeight && subAccordionContent.style.maxHeight !== '0px';
-        subAccordionContent.style.maxHeight = isOpen ? '0' : (subAccordionContent.scrollHeight + 400) + 'px';
-        return;
-      }
+    useEffect(() => {
+        if (activeTab !== 'protocolos') setSelectedProtocol(null);
+    }, [activeTab]);
 
-      const timelineMarker = event.target.closest('.timeline-marker');
-      if (timelineMarker) {
-        document.querySelectorAll('.timeline-marker').forEach((m) => m.classList.remove('active'));
-        timelineMarker.classList.add('active');
-        return;
-      }
-
-      const zoneSelector = event.target.closest('.zone-selector');
-      if (zoneSelector) {
-        const zoneId = zoneSelector.dataset.zone;
-        document.querySelectorAll('.zone-selector').forEach((s) => s.classList.remove('active'));
-        document.querySelectorAll('.svg-zone').forEach((z) => {
-          z.style.opacity = '0.1';
+    useEffect(() => {
+        if (!selectedProtocol) return;
+        requestAnimationFrame(() => {
+            const el = document.getElementById('protocol-detail');
+            if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
-        zoneSelector.classList.add('active');
-        const svgZone = document.getElementById(`svg-zone-${zoneId}`);
-        if (svgZone) {
-          svgZone.style.opacity = '0.5';
-          svgZone.style.fill = 'var(--accent-color)';
-        }
-      }
+    }, [selectedProtocol]);
 
-      const svgZone = event.target.closest('.svg-zone');
-      if (svgZone) {
-        const zoneId = svgZone.id.replace('svg-zone-', '');
-        const selector = document.querySelector(`.zone-selector[data-zone="${zoneId}"]`);
-        if (selector) selector.click();
-      }
-    };
+    return (
+        <div>
+            <nav className="main-nav">
+                <button className="nav-arrow left" type="button" onClick={() => scrollNav(-1)}>‹</button>
+                <div className="main-nav-container" ref={navRef}>
 
-    document.addEventListener('click', handleClick);
-    return () => document.removeEventListener('click', handleClick);
-  }, []);
+                    {tabs.map((tab) => (
+                        <button
+                            key={tab.id}
+                            className={`main-tab ${activeTab === tab.id ? 'active' : ''}`}
+                            onClick={() => {
+                                setActiveTab(tab.id);
+                                window.scrollTo({ top: 0, behavior: 'smooth' });
+                            }}
+                        >
+                            {tab.label}
+                        </button>
+                    ))}
+                </div>
+                <button className="nav-arrow right" type="button" onClick={() => scrollNav(1)}>›</button>
+            </nav>
 
-  useEffect(() => {
-    if (window.mermaid) {
-      window.mermaid.init(undefined, document.querySelectorAll('.mermaid'));
-    }
-  }, [activeTab]);
+            <main className="main-tab-content active">
+                {activeTab === 'protocolos' ? (
+                    <ProtocolsView protocols={protocols} selectedId={selectedProtocol} onSelect={setSelectedProtocol} />
+                ) : (
+                    <div dangerouslySetInnerHTML={{ __html: activeHtml }} />
+                )}
+            </main>
 
-  useEffect(() => {
-    if (activeTab !== 'protocolos') setSelectedProtocol(null);
-  }, [activeTab]);
-
-  useEffect(() => {
-    if (!selectedProtocol) return;
-    requestAnimationFrame(() => {
-      const el = document.getElementById('protocol-detail');
-      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    });
-  }, [selectedProtocol]);
-
-  return (
-    <div>
-      <nav className="main-nav">
-        <button className="nav-arrow left" type="button" onClick={() => scrollNav(-1)}>‹</button>
-        <div className="main-nav-container" ref={navRef}>
-
-          {tabs.map((tab) => (
-            <button
-              key={tab.id}
-              className={`main-tab ${activeTab === tab.id ? 'active' : ''}`}
-              onClick={() => {
-                setActiveTab(tab.id);
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-              }}
-            >
-              {tab.label}
-            </button>
-          ))}
+            <footer style={{ background: 'var(--primary-color)', color: 'var(--white)', padding: '50px 0', textAlign: 'center' }}>
+                <div className="container">
+                    <p>© 2026 Instittuto Centrobioenergetica</p>
+                    <p style={{ fontSize: '0.8rem', opacity: 0.7, marginTop: 10 }}>Material de uso profesional. Prohibida su reproducción.</p>
+                </div>
+            </footer>
         </div>
-        <button className="nav-arrow right" type="button" onClick={() => scrollNav(1)}>›</button>
-      </nav>
-
-      <main className="main-tab-content active">
-        {activeTab === 'protocolos' ? (
-          <ProtocolsView protocols={protocols} selectedId={selectedProtocol} onSelect={setSelectedProtocol} />
-        ) : (
-          <div dangerouslySetInnerHTML={{ __html: activeHtml }} />
-        )}
-      </main>
-
-      <footer style={{ background: 'var(--primary-color)', color: 'var(--white)', padding: '50px 0', textAlign: 'center' }}>
-        <div className="container">
-          <p>© 2026 Instittuto Centrobioenergetica</p>
-          <p style={{ fontSize: '0.8rem', opacity: 0.7, marginTop: 10 }}>Material de uso profesional. Prohibida su reproducción.</p>
-        </div>
-      </footer>
-    </div>
-  );
+    );
 }

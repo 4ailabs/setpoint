@@ -1284,3 +1284,107 @@ main h3 {
 .protocol-detail-header h3 {
     font-size: 1.5rem;
 }
+
+/* Protocol Navigation */
+.protocol-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid var(--glass-border);
+    background: rgba(255, 255, 255, 0.5);
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.protocol-nav-btn {
+    background: var(--white);
+    border: 1px solid var(--accent-light);
+    color: var(--primary-color);
+    padding: 10px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.95rem;
+    box-shadow: var(--shadow-soft);
+}
+
+.protocol-nav-btn:hover:not(:disabled) {
+    background: var(--accent-light);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-strong);
+}
+
+.protocol-nav-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    border-color: #eee;
+    color: #bbb;
+    box-shadow: none;
+    background: #fafafa;
+}
+
+.protocol-nav-info {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+/* Mobile Optimizations */
+@media (max-width: 600px) {
+    .protocol-navigation {
+        position: sticky;
+        bottom: 0;
+        margin: 20px -20px -20px -20px;
+        /* Bleed to edges inside the card padding */
+        padding: 15px 20px;
+        background: var(--white);
+        border-radius: 20px 20px 0 0;
+        box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.08);
+        border-top: none;
+        z-index: 10;
+    }
+
+    .protocol-nav-btn {
+        padding: 12px;
+        font-size: 0.9rem;
+        flex: 1;
+        justify-content: center;
+    }
+
+    .protocol-nav-info {
+        font-size: 0.8rem;
+        padding: 0 10px;
+        white-space: nowrap;
+    }
+
+    /* Protocol Detail Mobile Tweak */
+    .protocol-detail-header {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        gap: 15px;
+    }
+
+    .protocol-close {
+        align-self: flex-end;
+        background: rgba(13, 77, 77, 0.08);
+        padding: 8px 16px;
+        font-size: 0.9rem;
+    }
+
+    .protocol-detail-body {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    .protocol-detail-body h4 {
+        margin-top: 30px;
+    }
+}
