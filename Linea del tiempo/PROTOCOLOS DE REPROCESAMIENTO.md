@@ -6,7 +6,7 @@ Ciudad de México
 
 INTRODUCCIÓN: CÓMO USAR ESTOS PROTOCOLOS
 ¿Qué es la Técnica de la Mariposa?
-Es una técnica de estimulación bilateral que ayuda a reprocesar creencias y traumas
+Es una técnica de estimulación bilateral que ayuda a reprocesar creencias y patrones emocionales
 Preparación Antes de Cualquier Sesión
 Requisitos:
 
@@ -710,7 +710,7 @@ No tiene que ser grande. Solo algo que demuestre que SÍ aportas valor al mundo.
 PROTOCOLO 7: "ME VAN A ATACAR"
 Conflicto: El mundo es peligroso, necesito protegerme
 
-Nota: Este protocolo es para quien vivió violencia REAL. Trauma físico.
+Nota: Este protocolo es para quien vivió experiencias difíciles de índole física. Situaciones de riesgo real.
 PASO 1: Activación de la Emoción (30 segundos)
 Inicia tapping mientras repites:
 
@@ -721,7 +721,7 @@ Permite que surjan:
 Miedo visceral
 Hipervigilancia
 Tensión en todo el cuerpo
-Recuerdos de violencia
+Recuerdos de situaciones difíciles
 Ansiedad extrema
 
 Mantén el tapping. Si hay flashbacks, respira profundo y continúa.
@@ -730,7 +730,7 @@ Mantén el tapping. Si hay flashbacks, respira profundo y continúa.
 PASO 2: Reconocimiento del Origen (60 segundos)
 Continúa tapping:
 
-"Este miedo es REAL porque... [viví violencia / me golpearon / hubo abuso físico / crecí en un entorno violento / me atacaron]."
+"Este miedo es REAL porque... [viví experiencias difíciles / me golpearon / hubo daño físico / crecí en un entorno de riesgo / me atacaron]."
 
 "No es paranoia. Fue REAL. Mi cuerpo recuerda el peligro."
 
@@ -761,11 +761,11 @@ Continúa tapping, introduce la verdad:
 
 "Pero ahora, puedo empezar a crear seguridad de otras formas. No solo con grasa física."
 
-"Puedo aprender a identificar personas/lugares seguros vs peligrosos. Tengo más recursos ahora que cuando pasó el trauma."
+"Puedo aprender a identificar personas/lugares seguros vs peligrosos. Tengo más recursos ahora que cuando pasaron esas experiencias difíciles."
 
 "La grasa fue una solución temporal perfecta. Pero ahora puedo tener otras formas de seguridad: límites, decir no, alejarme de peligro, buscar ayuda."
 
-"Puedo honrar el trauma sin dejar que defina mi presente para siempre."
+"Puedo reconocer esas experiencias sin dejar que definan mi presente para siempre."
 
 
 PASO 4: Instalación de Nueva Realidad (90 segundos)
@@ -777,7 +777,7 @@ Aumenta velocidad del tapping:
 
 "No es que esté 'indefenso'. Es que ahora tengo OTRAS defensas: mi voz, mis límites, mi capacidad de alejarme, pedir ayuda."
 
-"El trauma pasó. Tengo cicatrices. Pero ya no estoy EN el trauma. Estoy en el presente."
+"Esas experiencias pasaron. Tengo cicatrices. Pero ya no estoy EN esas experiencias. Estoy en el presente."
 
 "Me doy permiso para empezar a confiar selectivamente. No en todos. Pero sí en personas específicas que demuestran ser seguras."
 
@@ -807,7 +807,7 @@ Finaliza lentamente. Abre los ojos. Mira alrededor. Confirma seguridad presente.
 INTEGRACIÓN POST-SESIÓN
 Escribe:
 
-¿Qué trauma específico generó la necesidad de "armadura"?
+¿Qué experiencia específica generó la necesidad de "armadura"?
 ¿Puedes sentir diferencia entre "peligro ENTONCES" vs "seguridad AHORA"?
 ¿Tu cuerpo puede soltar aunque sea 1% de hipervigilancia?
 ¿La grasa "armadura" se siente un poco diferente?
@@ -816,7 +816,7 @@ IMPORTANTE:
 
 Este conflicto requiere:
 
-Trabajo de trauma profesional (EMDR, Somatic Experiencing, etc.)
+Trabajo con un terapeuta o psicólogo especializado
 Este protocolo es COMPLEMENTARIO, no sustituto
 Puede tomar meses/años soltar completamente la "armadura"
 Ten compasión contigo. Tu cuerpo te salvó.
@@ -829,16 +829,16 @@ Esta semana, identifica UN lugar/persona donde te sientas completamente seguro. 
 PROTOCOLO 8: "SI SOY ATRACTIVO ME LASTIMARÁN"
 Conflicto: Es más seguro no ser deseable sexualmente
 
-ADVERTENCIA: Este protocolo toca trauma sexual. Si es muy activador, trabájalo con terapeuta especializado.
+ADVERTENCIA: Este protocolo aborda sentimientos relacionados con seguridad sexual y corporal. Si es muy activador, trabájalo con terapeuta especializado.
 PASO 1: Activación de la Emoción (30 segundos)
 Inicia tapping mientras repites:
 
-"Si soy atractivo, me lastimarán sexualmente. Es más seguro ser gordo. Es más seguro no ser deseable. Así nadie me va a hacer daño. Mi grasa me protege de miradas/comentarios/ataques sexuales."
+"Si soy atractivo, me lastimarán. Es más seguro ser gordo. Es más seguro no ser deseable. Así nadie me va a hacer daño. Mi grasa me protege de situaciones incómodas."
 
 Permite que surjan:
 
 Miedo visceral
-Náusea (común en trauma sexual)
+Náusea (respuesta somática común)
 Vergüenza
 Necesidad de esconderse
 Tensión en zonas sexuales
@@ -849,13 +849,13 @@ Mantén el tapping. Respira. Si necesitas pausar, hazlo.
 PASO 2: Reconocimiento del Origen (60 segundos)
 Continúa tapping:
 
-"Este miedo viene de... [abuso sexual / acoso / comentarios sexuales no deseados / ser tocado sin permiso / violación / agresión]."
+"Este miedo viene de... [experiencias incómodas / acoso / comentarios no deseados / ser tocado sin permiso / agresión / situaciones difíciles]."
 
 "No es paranoia. Algo MUY REAL pasó. Mi cuerpo recuerda el peligro de ser 'deseable'."
 
 "Concluí que si mi cuerpo no es atractivo, estaré seguro. Mi cuerpo acumuló grasa en zonas sexuales (pechos, caderas, glúteos, muslos) como forma de 'ocultar' mi sexualidad."
 
-"Esta respuesta me ha 'protegido' de... [ser visto sexualmente / ataques / miradas no deseadas / repetir el trauma]."
+"Esta respuesta me ha 'protegido' de... [sentirme visible / situaciones incómodas / miradas no deseadas / vivir situaciones similares]."
 
 "Pero me ha costado... [mi sexualidad / mi libertad / mi cuerpo / relaciones íntimas / sentirme cómodo en mi piel]."
 
@@ -871,7 +871,7 @@ Mantén el tapping. Eres valiente por hacer esto.
 PASO 3: Verdad Transformadora (90 segundos)
 Continúa tapping, introduce la verdad:
 
-"Pero la verdad es... Ser 'atractivo' NO causó el abuso. El abusador causó el abuso. La culpa NUNCA fue mía."
+"Pero la verdad es... Ser 'atractivo' NO fue la causa. La persona que actuó de forma inapropiada es responsable. La culpa NUNCA fue mía."
 
 "No importa cómo me vea, no es invitación para lastimarme. Mi cuerpo NO es responsable del comportamiento de otros."
 
@@ -879,11 +879,11 @@ Continúa tapping, introduce la verdad:
 
 "Pero ahora puedo tener otras formas de protección: límites, decir no, alejarme, pedir ayuda, elegir personas seguras."
 
-"Ser 'gordo' no garantiza seguridad. Y ser 'delgado' no causa abuso. El abuso viene de abusadores, no de cuerpos."
+"Ser 'gordo' no garantiza seguridad. Y ser 'delgado' no causa que suceda algo negativo. La responsabilidad recae en las personas que actúan de forma inapropiada."
 
-"Puedo empezar a recuperar mi cuerpo. Puede ser MÍO de nuevo, no del trauma."
+"Puedo empezar a recuperar mi cuerpo. Puede ser MÍO de nuevo, no vinculado a esas experiencias."
 
-"Mi sexualidad me pertenece. No es peligrosa. Lo peligroso fue la persona que me lastimó."
+"Mi cuerpo me pertenece. No es responsable de lo que otros hicieron. Yo soy inocente."
 
 
 PASO 4: Instalación de Nueva Realidad (90 segundos)
@@ -893,15 +893,15 @@ Aumenta velocidad del tapping:
 
 "Agradezco a mi cuerpo por crear esta protección. Pero ahora puedo empezar a soltarla gradualmente."
 
-"Mi cuerpo me pertenece. No al trauma. No al abusador. A MÍ."
+"Mi cuerpo me pertenece. No a esas experiencias. No a quién me lastimó. A MÍ."
 
-"La grasa en zonas sexuales puede empezar a soltarse. Ya no necesito 'ocultar' mi sexualidad para estar seguro."
+"La grasa puede empezar a soltarse. Ya no necesito 'ocultar' mi cuerpo para estar seguro."
 
 "Puedo aprender a diferenciar personas seguras de peligrosas. Puedo elegir con quien comparto mi cuerpo."
 
 "Ser visto/a como atractivo/a está bien cuando es en contexto seguro, con personas seguras, que respetan mis límites."
 
-"Recupero mi derecho a habitar mi cuerpo cómodamente. El trauma no me lo quita para siempre."
+"Recupero mi derecho a habitar mi cuerpo cómodamente. Esas experiencias no me lo quitan para siempre."
 
 
 PASO 5: Anclaje Corporal (60 segundos)
@@ -911,9 +911,9 @@ Respira profundo. Lleva atención a tu cuerpo con compasión.
 
 "Mi cuerpo no tiene la culpa de lo que pasó. Mi cuerpo es inocente."
 
-"Envío amor específicamente a las zonas sexuales que ocultaron bajo grasa. 'Los siento. Pueden ser vistos de nuevo. En contextos seguros. Con mi permiso'."
+"Envío amor específicamente a las partes de mi cuerpo que ocultaron bajo grasa. 'Las siento. Pueden ser vistas de nuevo. En contextos seguros. Con mi permiso'."
 
-"Mi sexualidad es parte de mi humanidad. No es peligrosa. No es sucia. Es MÍA."
+"Mi cuerpo es parte de mi humanidad. No es responsable de lo que otros hacen. Es MÍO."
 
 "Cada respiración libera un poco más de la grasa protectora. Gradualmente. Solo cuando me sienta seguro/a."
 
@@ -934,12 +934,12 @@ MUY IMPORTANTE:
 
 Este conflicto REQUIERE:
 
-Trabajo especializado en trauma sexual (EMDR, Somatic Experiencing)
+Trabajo con un terapeuta o psicólogo especializado
 Este protocolo es complemento, NO sustituto
-Puede tomar años recuperar completamente la sexualidad
+Puede tomar tiempo recuperar completamente la confianza en tu cuerpo
 NO te fuerces. Ve a tu ritmo.
 
-Contraindicación: Si hay flashbacks intensos o disociación, detén y trabaja primero con terapeuta especializado en trauma.
+Contraindicación: Si hay flashbacks intensos o disociación, detén y trabaja primero con un profesional especializado.
 
 Acción complementaria:
 
@@ -3015,7 +3015,7 @@ Mantén el tapping. Nunca fue tu culpa.
 PASO 3: Verdad Transformadora (90 segundos)
 Continúa tapping, introduce la verdad:
 
-"Pero la verdad es... Esa inversión de roles fue ABUSO. Sutil, pero abuso."
+"Pero la verdad es... Esa inversión de roles fue dañina. Sutil, pero perjudicial para tu desarrollo."
 
 "Un niño NO debe cuidar emocionalmente a sus padres. Eso se llama parentificación. Es dañino."
 
@@ -3097,9 +3097,9 @@ Practica recibir sin tener que dar siempre.
 
 
 PROTOCOLO 26: "EL MUNDO ES PELIGROSO" (Heredado)
-Conflicto: Tus ancestros vivieron violencia y tu cuerpo lo recuerda
+Conflicto: Tus ancestros vivieron experiencias difíciles y tu cuerpo lo recuerda
 
-Nota: Trauma transgeneracional. Guerra, persecución, violencia ancestral.
+Nota: Patrón transgeneracional. Guerra, persecución, situaciones de riesgo ancestral.
 PASO 1: Activación de la Emoción (30 segundos)
 Inicia tapping mientras repites:
 
@@ -3119,9 +3119,9 @@ Mantén el tapping. Este miedo es real aunque sea heredado.
 PASO 2: Reconocimiento del Origen (60 segundos)
 Continúa tapping:
 
-"Este miedo NO viene de MI vida. Viene de... [mis abuelos que vivieron la guerra / mis ancestros perseguidos / violencia intergeneracional en mi familia]."
+"Este miedo NO viene de MI vida. Viene de... [mis abuelos que vivieron la guerra / mis ancestros perseguidos / experiencias difíciles intergeneracional en mi familia]."
 
-"Ellos SÍ vivieron peligro real. Guerra. Hambre. Persecución. Violencia."
+"Ellos SÍ vivieron peligro real. Guerra. Hambre. Persecución. Situaciones de extrema dificultad."
 
 "Esa memoria se inscribió en sus células. Se pasó a mis padres. Se pasó a mí."
 
@@ -3135,7 +3135,7 @@ Observa tu cuerpo:
 
 ¿Hipervigilancia aunque tu vida sea segura?
 ¿Grasa tipo "armadura" heredada?
-¿Historia familiar de guerra/persecución?
+¿Historia familiar de dificultades históricas/persecución?
 ¿Ansiedad desproporcionada a tu realidad actual?
 
 Mantén el tapping. Honras a tus ancestros liberando esto.
@@ -3146,7 +3146,7 @@ Continúa tapping, introduce la verdad:
 
 "Pero la verdad es... El peligro fue ENTONCES (abuelos). NO es AHORA (yo)."
 
-"Mis abuelos vivieron guerra. YO no. Vivieron persecución. YO no. Vivieron violencia. YO no."
+"Mis abuelos vivieron guerra. YO no. Vivieron persecución. YO no. Vivieron situaciones de extremo riesgo. YO no."
 
 "La memoria celular está desactualizada. Mi cuerpo cree que estoy en 1940. Pero estoy en 2026."
 
@@ -3198,7 +3198,7 @@ Finaliza lentamente. Di: "Estoy seguro. Ahora. Aquí. En paz." Respira.
 INTEGRACIÓN POST-SESIÓN
 Escribe:
 
-¿Qué violencia/guerra/persecución vivieron tus abuelos/bisabuelos?
+¿Qué dificultades históricas vivieron tus abuelos/bisabuelos?
 ¿Puedes diferenciar su vida (peligro) de tu vida (seguridad)?
 ¿Tu hipervigilancia se siente aunque sea 1% menos?
 ¿Cómo podrías honrarlos viviendo en paz?
@@ -3207,7 +3207,7 @@ Ritual de Liberación Ancestral:
 
 Enciende una vela. Di en voz alta:
 
-"Abuelos, bisabuelos, ancestros: Ustedes vivieron guerra, violencia, peligro. Sobrevivieron para que yo pudiera estar aquí. Los honro. Los agradezco. Y ahora libero la memoria de peligro. YO vivo en paz. Esa es la victoria de ustedes. Pueden descansar. Yo estoy bien. Los amo. Los libero. Me libero. En paz."
+"Abuelos, bisabuelos, ancestros: Ustedes vivieron situaciones difíciles, peligro, dificultades. Sobrevivieron para que yo pudiera estar aquí. Los honro. Los agradezco. Y ahora libero esa memoria de dificultad. YO vivo en paz. Esa es la victoria de ustedes. Pueden descansar. Yo estoy bien. Los amo. Los libero. Me libero. En paz."
 
 Apaga la vela. Respira.
 
@@ -3665,7 +3665,7 @@ Continúa tapping:
 
 "Mis abuelos/bisabuelos vivieron [guerra/hambruna/crisis]. Casi mueren de hambre. Comían lo que encontraban."
 
-"Crecí escuchando sus historias. Vi su dolor. Sentí su trauma."
+"Crecí escuchando sus historias. Vi su dolor. Sentí el peso de sus dificultades."
 
 "Inconscientemente decidí: 'Yo compensaré lo que ustedes no tuvieron. Comeré por los dos. Acumularé por los dos'."
 
@@ -3673,7 +3673,7 @@ Continúa tapping:
 
 "Esta compensación me ha 'protegido' de... [olvidar su sufrimiento / ser ingrato / traicionarlos siendo 'desperdiciador']."
 
-"Pero me ha costado... [MI salud / obesidad extrema / incapacidad de regular alimentación / perpetuar trauma en lugar de sanarlo]."
+"Pero me ha costado... [MI salud / obesidad extrema / incapacidad de regular alimentación / perpetuar patrones en lugar de sanarlo]."
 
 Observa tu cuerpo:
 
@@ -3716,7 +3716,7 @@ Aumenta velocidad del tapping:
 
 "Su sufrimiento NO fue en vano. Resultó en que YO tengo abundancia. Eso es hermoso."
 
-"Los honro viviendo en la abundancia saludable que ellos soñaron. No perpetuando trauma."
+"Los honro viviendo en la abundancia saludable que ellos soñaron. No perpetuando patrones de dolor."
 
 "Como lo que necesito. Disfruto. Sin culpa. Eso es su legado."
 
@@ -4103,7 +4103,7 @@ Continúa tapping, introduce la verdad:
 
 "Pero la verdad es... Puedo amar a mi familia Y estar saludable. No son mutuamente excluyentes."
 
-"La obesidad NO es genética inevitable. Es patrón familiar transmitido por conductas, creencias, traumas."
+"La obesidad NO es genética inevitable. Es patrón familiar transmitido por conductas, creencias, y patrones heredados."
 
 "Romper el patrón NO es traición. Es EVOLUCIÓN. Es sanar lo que estaba roto."
 
