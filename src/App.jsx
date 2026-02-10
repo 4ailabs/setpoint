@@ -1394,16 +1394,16 @@ const tabs = [
                 <h3><span class="protocol-id">#7</span> &quot;ME VAN A ATACAR&quot;</h3>
                 <div class="protocol-text">
 <p>Conflicto: El mundo es peligroso, necesito protegerme</p>
-<p>Nota: Este protocolo es para quien vivió violencia REAL. Trauma físico.</p>
+<p>Nota: Este protocolo es para quien vivió experiencias difíciles de índole física. Situaciones de riesgo real.</p>
 <h4>PASO 1: Activación de la Emoción (30 segundos)</h4>
 <p><strong>Inicia tapping mientras repites:</strong></p>
 <blockquote>&quot;El mundo es peligroso. Me van a atacar. Necesito protegerme. No estoy seguro. Debo estar siempre alerta. Mi cuerpo necesita ser un escudo.&quot;</blockquote>
 <p><strong>Permite que surjan:</strong></p>
-<p>Miedo visceral Hipervigilancia Tensión en todo el cuerpo Recuerdos de violencia Ansiedad extrema</p>
+<p>Miedo visceral Hipervigilancia Tensión en todo el cuerpo Recuerdos de situaciones difíciles Ansiedad extrema</p>
 <p>Mantén el tapping. Si hay flashbacks, respira profundo y continúa.</p>
 <h4>PASO 2: Reconocimiento del Origen (60 segundos)</h4>
 <p><strong>Continúa tapping:</strong></p>
-<blockquote>&quot;Este miedo es REAL porque... [viví violencia / me golpearon / hubo abuso físico / crecí en un entorno violento / me atacaron].&quot;</blockquote>
+<blockquote>&quot;Este miedo es REAL porque... [viví experiencias difíciles / me golpearon / hubo daño físico / crecí en un entorno de riesgo / me atacaron].&quot;</blockquote>
 <blockquote>&quot;No es paranoia. Fue REAL. Mi cuerpo recuerda el peligro.&quot;</blockquote>
 <blockquote>&quot;Mi cuerpo respondió creando grasa como &#x27;armadura&#x27;. Como escudo literal contra los golpes. Fue inteligente.&quot;</blockquote>
 <blockquote>&quot;Esta respuesta me ha &#x27;protegido&#x27; de... [ser vulnerable / sentirme expuesto / volver a ser lastimado].&quot;</blockquote>
@@ -1417,15 +1417,15 @@ const tabs = [
 <blockquote>&quot;En este momento, mientras hago este tapping, AHORA, no hay nadie atacándome. Estoy seguro AHORA.&quot;</blockquote>
 <blockquote>&quot;Mi cuerpo creó esta armadura cuando la necesitaba. Le agradezco profundamente. Me salvó.&quot;</blockquote>
 <blockquote>&quot;Pero ahora, puedo empezar a crear seguridad de otras formas. No solo con grasa física.&quot;</blockquote>
-<blockquote>&quot;Puedo aprender a identificar personas/lugares seguros vs peligrosos. Tengo más recursos ahora que cuando pasó el trauma.&quot;</blockquote>
+<blockquote>&quot;Puedo aprender a identificar personas/lugares seguros vs peligrosos. Tengo más recursos ahora que cuando pasaron esas experiencias difíciles.&quot;</blockquote>
 <blockquote>&quot;La grasa fue una solución temporal perfecta. Pero ahora puedo tener otras formas de seguridad: límites, decir no, alejarme de peligro, buscar ayuda.&quot;</blockquote>
-<blockquote>&quot;Puedo honrar el trauma sin dejar que defina mi presente para siempre.&quot;</blockquote>
+<blockquote>&quot;Puedo reconocer esas experiencias sin dejar que definan mi presente para siempre.&quot;</blockquote>
 <h4>PASO 4: Instalación de Nueva Realidad (90 segundos)</h4>
 <p><strong>Aumenta velocidad del tapping:</strong></p>
 <blockquote>&quot;Elijo creer que puedo estar seguro sin necesitar la armadura de grasa.&quot;</blockquote>
 <blockquote>&quot;Agradezco a mi cuerpo por crear esta protección. Fue perfecta cuando la necesité. Pero ahora puedo empezar a soltarla gradualmente.&quot;</blockquote>
 <blockquote>&quot;No es que esté &#x27;indefenso&#x27;. Es que ahora tengo OTRAS defensas: mi voz, mis límites, mi capacidad de alejarme, pedir ayuda.&quot;</blockquote>
-<blockquote>&quot;El trauma pasó. Tengo cicatrices. Pero ya no estoy EN el trauma. Estoy en el presente.&quot;</blockquote>
+<blockquote>&quot;Esas experiencias pasaron. Tengo cicatrices. Pero ya no estoy EN esas experiencias. Estoy en el presente.&quot;</blockquote>
 <blockquote>&quot;Me doy permiso para empezar a confiar selectivamente. No en todos. Pero sí en personas específicas que demuestran ser seguras.&quot;</blockquote>
 <blockquote>&quot;Mi cuerpo puede soltar la armadura gradualmente. No de golpe. Poco a poco. A medida que construyo seguridad de otras formas.&quot;</blockquote>
 <blockquote>&quot;Estoy seguro ahora. En este momento. Respiro. Estoy bien.&quot;</blockquote>
@@ -1440,10 +1440,10 @@ const tabs = [
 <p>Finaliza lentamente. Abre los ojos. Mira alrededor. Confirma seguridad presente.</p>
 <h4>INTEGRACIÓN POST-SESIÓN</h4>
 <p><strong>Escribe:</strong></p>
-<p>¿Qué trauma específico generó la necesidad de &quot;armadura&quot;? ¿Puedes sentir diferencia entre &quot;peligro ENTONCES&quot; vs &quot;seguridad AHORA&quot;? ¿Tu cuerpo puede soltar aunque sea 1% de hipervigilancia? ¿La grasa &quot;armadura&quot; se siente un poco diferente?</p>
+<p>¿Qué experiencia específica generó la necesidad de &quot;armadura&quot;? ¿Puedes sentir diferencia entre &quot;peligro ENTONCES&quot; vs &quot;seguridad AHORA&quot;? ¿Tu cuerpo puede soltar aunque sea 1% de hipervigilancia? ¿La grasa &quot;armadura&quot; se siente un poco diferente?</p>
 <p><strong>IMPORTANTE:</strong></p>
 <p><strong>Este conflicto requiere:</strong></p>
-<p>Trabajo de trauma profesional (EMDR, Somatic Experiencing, etc.) Este protocolo es COMPLEMENTARIO, no sustituto Puede tomar meses/años soltar completamente la &quot;armadura&quot; Ten compasión contigo. Tu cuerpo te salvó.</p>
+<p>Trabajo con un terapeuta o psicólogo especializado Este protocolo es COMPLEMENTARIO, no sustituto Los cambios pueden empezar a sentirse en semanas, pero el proceso completo de integración toma tiempo. Sé paciente contigo. Tu cuerpo te salvó y merece gratitud, no prisa.</p>
 <p><strong>Acción complementaria:</strong></p>
 <p>Esta semana, identifica UN lugar/persona donde te sientas completamente seguro. Pasa tiempo ahí. Respira. Deja que tu cuerpo sienta que SÍ existe seguridad.</p>
                 </div>
@@ -1453,32 +1453,32 @@ const tabs = [
                 <h3><span class="protocol-id">#8</span> &quot;SI SOY ATRACTIVO ME LASTIMARÁN&quot;</h3>
                 <div class="protocol-text">
 <p>Conflicto: Es más seguro no ser deseable sexualmente</p>
-<p>ADVERTENCIA: Este protocolo toca trauma sexual. Si es muy activador, trabájalo con terapeuta especializado.</p>
+<p>ADVERTENCIA: Este protocolo aborda sentimientos relacionados con seguridad sexual y corporal. Si es muy activador, trabájalo con terapeuta especializado.</p>
 <h4>PASO 1: Activación de la Emoción (30 segundos)</h4>
 <p><strong>Inicia tapping mientras repites:</strong></p>
-<blockquote>&quot;Si soy atractivo, me lastimarán sexualmente. Es más seguro ser gordo. Es más seguro no ser deseable. Así nadie me va a hacer daño. Mi grasa me protege de miradas/comentarios/ataques sexuales.&quot;</blockquote>
+<blockquote>&quot;Si soy atractivo, me lastimarán. Es más seguro ser gordo. Es más seguro no ser deseable. Así nadie me va a hacer daño. Mi grasa me protege de situaciones incómodas.&quot;</blockquote>
 <p><strong>Permite que surjan:</strong></p>
-<p>Miedo visceral Náusea (común en trauma sexual) Vergüenza Necesidad de esconderse Tensión en zonas sexuales</p>
+<p>Miedo visceral Náusea (respuesta somática común) Vergüenza Necesidad de esconderse Tensión en zonas sexuales</p>
 <p>Mantén el tapping. Respira. Si necesitas pausar, hazlo.</p>
 <h4>PASO 2: Reconocimiento del Origen (60 segundos)</h4>
 <p><strong>Continúa tapping:</strong></p>
-<blockquote>&quot;Este miedo viene de... [abuso sexual / acoso / comentarios sexuales no deseados / ser tocado sin permiso / violación / agresión].&quot;</blockquote>
+<blockquote>&quot;Este miedo viene de... [experiencias negativas de índole sexual / acoso / comentarios sexuales no deseados / ser tocado sin permiso / agresión / situaciones incómodas].&quot;</blockquote>
 <blockquote>&quot;No es paranoia. Algo MUY REAL pasó. Mi cuerpo recuerda el peligro de ser &#x27;deseable&#x27;.&quot;</blockquote>
 <blockquote>&quot;Concluí que si mi cuerpo no es atractivo, estaré seguro. Mi cuerpo acumuló grasa en zonas sexuales (pechos, caderas, glúteos, muslos) como forma de &#x27;ocultar&#x27; mi sexualidad.&quot;</blockquote>
-<blockquote>&quot;Esta respuesta me ha &#x27;protegido&#x27; de... [ser visto sexualmente / ataques / miradas no deseadas / repetir el trauma].&quot;</blockquote>
+<blockquote>&quot;Esta respuesta me ha &#x27;protegido&#x27; de... [ser visto sexualmente / situaciones incómodas / miradas no deseadas / vivir situaciones similares].&quot;</blockquote>
 <blockquote>&quot;Pero me ha costado... [mi sexualidad / mi libertad / mi cuerpo / relaciones íntimas / sentirme cómodo en mi piel].&quot;</blockquote>
 <p><strong>Observa tu cuerpo:</strong></p>
 <p>¿Grasa específicamente en zonas sexuales? ¿Náusea o tensión al pensar en ser &quot;atractivo&quot;? ¿Sabotaje cuando empiezas a bajar de peso?</p>
 <p>Mantén el tapping. Eres valiente por hacer esto.</p>
 <h4>PASO 3: Verdad Transformadora (90 segundos)</h4>
 <p><strong>Continúa tapping, introduce la verdad:</strong></p>
-<blockquote>&quot;Pero la verdad es... Ser &#x27;atractivo&#x27; NO causó el abuso. El abusador causó el abuso. La culpa NUNCA fue mía.&quot;</blockquote>
+<blockquote>&quot;Pero la verdad es... Ser &#x27;atractivo&#x27; no causó lo que pasó. La responsabilidad está en quien actuó de forma inapropiada. La culpa NUNCA fue mía.&quot;</blockquote>
 <blockquote>&quot;No importa cómo me vea, no es invitación para lastimarme. Mi cuerpo NO es responsable del comportamiento de otros.&quot;</blockquote>
 <blockquote>&quot;Mi cuerpo acumuló grasa como estrategia de supervivencia. Fue inteligente. Me protegió como pudo.&quot;</blockquote>
 <blockquote>&quot;Pero ahora puedo tener otras formas de protección: límites, decir no, alejarme, pedir ayuda, elegir personas seguras.&quot;</blockquote>
-<blockquote>&quot;Ser &#x27;gordo&#x27; no garantiza seguridad. Y ser &#x27;delgado&#x27; no causa abuso. El abuso viene de abusadores, no de cuerpos.&quot;</blockquote>
-<blockquote>&quot;Puedo empezar a recuperar mi cuerpo. Puede ser MÍO de nuevo, no del trauma.&quot;</blockquote>
-<blockquote>&quot;Mi sexualidad me pertenece. No es peligrosa. Lo peligroso fue la persona que me lastimó.&quot;</blockquote>
+<blockquote>&quot;Ser &#x27;gordo&#x27; no garantiza seguridad. Y ser &#x27;delgado&#x27; no causa que suceda algo negativo. La responsabilidad recae en las personas que actúan de forma inapropiada.&quot;</blockquote>
+<blockquote>&quot;Puedo empezar a recuperar mi cuerpo. Puede ser MÍO de nuevo, no vinculado a esas experiencias.&quot;</blockquote>
+<blockquote>&quot;Mi cuerpo me pertenece. No es responsable de lo que otros hicieron. Yo soy inocente.&quot;</blockquote>
 <h4>PASO 4: Instalación de Nueva Realidad (90 segundos)</h4>
 <p><strong>Aumenta velocidad del tapping:</strong></p>
 <blockquote>&quot;Elijo creer que puedo ser atractivo Y seguro. No son mutuamente excluyentes.&quot;</blockquote>
@@ -1487,7 +1487,7 @@ const tabs = [
 <blockquote>&quot;La grasa en zonas sexuales puede empezar a soltarse. Ya no necesito &#x27;ocultar&#x27; mi sexualidad para estar seguro.&quot;</blockquote>
 <blockquote>&quot;Puedo aprender a diferenciar personas seguras de peligrosas. Puedo elegir con quien comparto mi cuerpo.&quot;</blockquote>
 <blockquote>&quot;Ser visto/a como atractivo/a está bien cuando es en contexto seguro, con personas seguras, que respetan mis límites.&quot;</blockquote>
-<blockquote>&quot;Recupero mi derecho a habitar mi cuerpo cómodamente. El trauma no me lo quita para siempre.&quot;</blockquote>
+<blockquote>&quot;Recupero mi derecho a habitar mi cuerpo cómodamente. Esas experiencias no me lo quitan para siempre.&quot;</blockquote>
 <h4>PASO 5: Anclaje Corporal (60 segundos)</h4>
 <p><strong>Reduce velocidad del tapping:</strong></p>
 <p>Respira profundo. Lleva atención a tu cuerpo con compasión.</p>
@@ -1499,11 +1499,11 @@ const tabs = [
 <p>Finaliza lentamente. Pon tu mano en tu corazón. Respira.</p>
 <h4>INTEGRACIÓN POST-SESIÓN</h4>
 <p><strong>Escribe:</strong></p>
-<p>¿Qué evento(s) generó la asociación &quot;atractivo = peligro&quot;? ¿Puedes diferenciar &quot;culpa del abusador&quot; vs &quot;mi cuerpo es inocente&quot;? ¿Hay aunque sea 1% menos de miedo a ser visto/a? ¿Las zonas sexuales se sienten un poco diferentes?</p>
+<p>¿Qué evento(s) generó la asociación &quot;atractivo = peligro&quot;? ¿Puedes diferenciar &quot;responsabilidad de quien actuó mal&quot; vs &quot;mi cuerpo es inocente&quot;? ¿Hay aunque sea 1% menos de miedo a ser visto/a? ¿Las zonas sexuales se sienten un poco diferentes?</p>
 <p><strong>MUY IMPORTANTE:</strong></p>
 <p><strong>Este conflicto REQUIERE:</strong></p>
-<p>Trabajo especializado en trauma sexual (EMDR, Somatic Experiencing) Este protocolo es complemento, NO sustituto Puede tomar años recuperar completamente la sexualidad NO te fuerces. Ve a tu ritmo.</p>
-<p>Contraindicación: Si hay flashbacks intensos o disociación, detén y trabaja primero con terapeuta especializado en trauma.</p>
+<p>Trabajo con un terapeuta o psicólogo especializado Este protocolo es complemento, NO sustituto Notarás cambios progresivos en cómo te relacionas con tu cuerpo. Cada pequeño avance cuenta. Ve a tu ritmo. No hay prisa.</p>
+<p>Contraindicación: Si hay flashbacks intensos o disociación, detén y trabaja primero con un profesional especializado.</p>
 <p><strong>Acción complementaria:</strong></p>
 <p><strong>Esta semana, identifica UNA cosa que puedas hacer para &quot;recuperar&quot; tu cuerpo:</strong></p>
 <p>Baño relajante Auto-masaje en zona neutral (manos, pies) Ropa que te haga sentir cómodo/a Decir &quot;mi cuerpo me pertenece&quot; frente al espejo</p>
@@ -2559,8 +2559,8 @@ const tabs = [
             <article class="protocol-card glass-card">
                 <h3><span class="protocol-id">#26</span> &quot;EL MUNDO ES PELIGROSO&quot; (Heredado)</h3>
                 <div class="protocol-text">
-<p>Conflicto: Tus ancestros vivieron violencia y tu cuerpo lo recuerda</p>
-<p>Nota: Trauma transgeneracional. Guerra, persecución, violencia ancestral.</p>
+<p>Conflicto: Tus ancestros vivieron situaciones difíciles y tu cuerpo lo recuerda</p>
+<p>Nota: Memoria transgeneracional. Guerra, persecución, situaciones de riesgo ancestral.</p>
 <h4>PASO 1: Activación de la Emoción (30 segundos)</h4>
 <p><strong>Inicia tapping mientras repites:</strong></p>
 <blockquote>&quot;El mundo es peligroso. Siempre ha sido peligroso. Debo estar alerta siempre. Necesito protección. Mi cuerpo es mi armadura. Aunque mi vida actual sea tranquila, SIENTO peligro constante. Es heredado.&quot;</blockquote>
@@ -2569,8 +2569,8 @@ const tabs = [
 <p>Mantén el tapping. Este miedo es real aunque sea heredado.</p>
 <h4>PASO 2: Reconocimiento del Origen (60 segundos)</h4>
 <p><strong>Continúa tapping:</strong></p>
-<blockquote>&quot;Este miedo NO viene de MI vida. Viene de... [mis abuelos que vivieron la guerra / mis ancestros perseguidos / violencia intergeneracional en mi familia].&quot;</blockquote>
-<blockquote>&quot;Ellos SÍ vivieron peligro real. Guerra. Hambre. Persecución. Violencia.&quot;</blockquote>
+<blockquote>&quot;Este miedo NO viene de MI vida. Viene de... [mis abuelos que vivieron la guerra / mis ancestros perseguidos / situaciones de riesgo intergeneracional en mi familia].&quot;</blockquote>
+<blockquote>&quot;Ellos SÍ vivieron peligro real. Guerra. Hambre. Persecución. Situaciones de extremo riesgo.&quot;</blockquote>
 <blockquote>&quot;Esa memoria se inscribió en sus células. Se pasó a mis padres. Se pasó a mí.&quot;</blockquote>
 <blockquote>&quot;Mi cuerpo respondió creando &#x27;armadura&#x27; de grasa aunque YO no viva ese peligro. Es memoria heredada.&quot;</blockquote>
 <blockquote>&quot;Este patrón me ha &#x27;protegido&#x27; de... [relajarme (peligroso según la memoria) / confiar / vivir libre].&quot;</blockquote>
@@ -2581,7 +2581,7 @@ const tabs = [
 <h4>PASO 3: Verdad Transformadora (90 segundos)</h4>
 <p><strong>Continúa tapping, introduce la verdad:</strong></p>
 <blockquote>&quot;Pero la verdad es... El peligro fue ENTONCES (abuelos). NO es AHORA (yo).&quot;</blockquote>
-<blockquote>&quot;Mis abuelos vivieron guerra. YO no. Vivieron persecución. YO no. Vivieron violencia. YO no.&quot;</blockquote>
+<blockquote>&quot;Mis abuelos vivieron guerra. YO no. Vivieron persecución. YO no. Vivieron situaciones de extremo riesgo. YO no.&quot;</blockquote>
 <blockquote>&quot;La memoria celular está desactualizada. Mi cuerpo cree que estoy en 1940. Pero estoy en 2026.&quot;</blockquote>
 <blockquote>&quot;Puedo honrar el sufrimiento de mis ancestros Y vivir MI vida en paz. No los traiciono por estar seguro.&quot;</blockquote>
 <blockquote>&quot;Mi cuerpo creó armadura para peligro que YA NO EXISTE en mi vida. Puede soltar.&quot;</blockquote>
@@ -2607,10 +2607,10 @@ const tabs = [
 <p>Finaliza lentamente. Di: &quot;Estoy seguro. Ahora. Aquí. En paz.&quot; Respira.</p>
 <h4>INTEGRACIÓN POST-SESIÓN</h4>
 <p><strong>Escribe:</strong></p>
-<p>¿Qué violencia/guerra/persecución vivieron tus abuelos/bisabuelos? ¿Puedes diferenciar su vida (peligro) de tu vida (seguridad)? ¿Tu hipervigilancia se siente aunque sea 1% menos? ¿Cómo podrías honrarlos viviendo en paz?</p>
+<p>¿Qué dificultades históricas vivieron tus abuelos/bisabuelos? ¿Puedes diferenciar su vida (peligro) de tu vida (seguridad)? ¿Tu hipervigilancia se siente aunque sea 1% menos? ¿Cómo podrías honrarlos viviendo en paz?</p>
 <p><strong>Ritual de Liberación Ancestral:</strong></p>
 <p><strong>Enciende una vela. Di en voz alta:</strong></p>
-<blockquote>&quot;Abuelos, bisabuelos, ancestros: Ustedes vivieron guerra, violencia, peligro. Sobrevivieron para que yo pudiera estar aquí. Los honro. Los agradezco. Y ahora libero la memoria de peligro. YO vivo en paz. Esa es la victoria de ustedes. Pueden descansar. Yo estoy bien. Los amo. Los libero. Me libero. En paz.&quot;</blockquote>
+<blockquote>&quot;Abuelos, bisabuelos, ancestros: Ustedes vivieron situaciones difíciles, peligro, dificultades. Sobrevivieron para que yo pudiera estar aquí. Los honro. Los agradezco. Y ahora libero esa memoria de dificultad. YO vivo en paz. Esa es la victoria de ustedes. Pueden descansar. Yo estoy bien. Los amo. Los libero. Me libero. En paz.&quot;</blockquote>
 <p>Apaga la vela. Respira.</p>
 <p><strong>Acción complementaria:</strong></p>
 <p><strong>Esta semana, haz UNA cosa que honre la paz (no el miedo):</strong></p>
@@ -2840,7 +2840,7 @@ const tabs = [
 <blockquote>&quot;Inconscientemente decidí: &#x27;Yo compensaré lo que ustedes no tuvieron. Comeré por los dos. Acumularé por los dos&#x27;.&quot;</blockquote>
 <blockquote>&quot;Mi cuerpo acumuló grasa como diciendo: &#x27;Ahora SÍ hay. Lo que ustedes no tuvieron, yo lo tengo. Los compenso&#x27;.&quot;</blockquote>
 <blockquote>&quot;Esta compensación me ha &#x27;protegido&#x27; de... [olvidar su sufrimiento / ser ingrato / traicionarlos siendo &#x27;desperdiciador&#x27;].&quot;</blockquote>
-<blockquote>&quot;Pero me ha costado... [MI salud / obesidad extrema / incapacidad de regular alimentación / perpetuar trauma en lugar de sanarlo].&quot;</blockquote>
+<blockquote>&quot;Pero me ha costado... [MI salud / obesidad extrema / incapacidad de regular alimentación / perpetuar patrones de dolor en lugar de sanarlo].&quot;</blockquote>
 <p><strong>Observa tu cuerpo:</strong></p>
 <p>¿Acumulación extrema? ¿Culpa si no comes todo? ¿Sensación de &quot;comer por ellos&quot;? ¿Historia familiar clara de hambruna?</p>
 <p>Mantén el tapping. No puedes deshacer su hambre comiendo más.</p>
@@ -2860,7 +2860,7 @@ const tabs = [
 <blockquote>&quot;Les digo (simbólicamente): &#x27;Abuelos, lo que pasaron fue terrible. Y yo estoy bien. Tengo comida. Eso es su victoria&#x27;.&quot;</blockquote>
 <blockquote>&quot;Como con salud. Disfruto la comida. NO la desperdicio en mi cuerpo comiéndola sin hambre.&quot;</blockquote>
 <blockquote>&quot;Su sufrimiento NO fue en vano. Resultó en que YO tengo abundancia. Eso es hermoso.&quot;</blockquote>
-<blockquote>&quot;Los honro viviendo en la abundancia saludable que ellos soñaron. No perpetuando trauma.&quot;</blockquote>
+<blockquote>&quot;Los honro viviendo en la abundancia saludable que ellos soñaron. No perpetuando patrones de dolor.&quot;</blockquote>
 <blockquote>&quot;Como lo que necesito. Disfruto. Sin culpa. Eso es su legado.&quot;</blockquote>
 <h4>PASO 5: Anclaje Corporal (60 segundos)</h4>
 <p><strong>Reduce velocidad del tapping:</strong></p>
@@ -3053,7 +3053,7 @@ const tabs = [
 <h4>PASO 3: Verdad Transformadora (90 segundos)</h4>
 <p><strong>Continúa tapping, introduce la verdad:</strong></p>
 <blockquote>&quot;Pero la verdad es... Puedo amar a mi familia Y estar saludable. No son mutuamente excluyentes.&quot;</blockquote>
-<blockquote>&quot;La obesidad NO es genética inevitable. Es patrón familiar transmitido por conductas, creencias, traumas.&quot;</blockquote>
+<blockquote>&quot;La obesidad NO es genética inevitable. Es patrón familiar transmitido por conductas, creencias, y patrones heredados.&quot;</blockquote>
 <blockquote>&quot;Romper el patrón NO es traición. Es EVOLUCIÓN. Es sanar lo que estaba roto.&quot;</blockquote>
 <blockquote>&quot;Mi familia seguirá siendo mi familia aunque mi cuerpo sea diferente. La sangre no se borra.&quot;</blockquote>
 <blockquote>&quot;Si me excluyen por estar saludable, ese es SU problema, no el mío. Yo elijo salud.&quot;</blockquote>
