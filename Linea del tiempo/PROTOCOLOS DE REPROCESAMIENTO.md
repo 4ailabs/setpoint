@@ -818,8 +818,8 @@ Este conflicto requiere:
 
 Trabajo con un terapeuta o psicólogo especializado
 Este protocolo es COMPLEMENTARIO, no sustituto
-Puede tomar meses/años soltar completamente la "armadura"
-Ten compasión contigo. Tu cuerpo te salvó.
+Los cambios pueden empezar a sentirse en semanas, pero el proceso completo de integración toma tiempo. Sé paciente contigo.
+Tu cuerpo te salvó y merece gratitud, no prisa.
 
 Acción complementaria:
 
@@ -936,8 +936,8 @@ Este conflicto REQUIERE:
 
 Trabajo con un terapeuta o psicólogo especializado
 Este protocolo es complemento, NO sustituto
-Puede tomar tiempo recuperar completamente la confianza en tu cuerpo
-NO te fuerces. Ve a tu ritmo.
+Notarás cambios progresivos en cómo te relacionas con tu cuerpo. Cada pequeño avance cuenta.
+Ve a tu ritmo. No hay prisa.
 
 Contraindicación: Si hay flashbacks intensos o disociación, detén y trabaja primero con un profesional especializado.
 
