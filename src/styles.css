@@ -352,8 +352,8 @@ main h3 {
 .protocols-grid {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 32px;
-    max-width: 1000px;
+    gap: 40px;
+    max-width: 1100px;
     margin: 0 auto;
 }
 
@@ -361,11 +361,12 @@ main h3 {
     background: var(--soft-white);
     border: 1px solid rgba(123, 157, 127, 0.15);
     border-radius: var(--border-radius);
-    padding: 50px;
+    padding: 60px;
     box-shadow: var(--shadow-soft);
     transition: var(--transition);
     position: relative;
     overflow: hidden;
+    min-height: auto;
 }
 
 .protocol-card::before {
@@ -393,9 +394,9 @@ main h3 {
 .protocol-card h3 {
     display: flex;
     align-items: center;
-    gap: 16px;
-    margin-bottom: 20px;
-    font-size: 1.6rem;
+    gap: 18px;
+    margin-bottom: 28px;
+    font-size: 1.8rem;
     color: var(--deep-forest);
 }
 
@@ -403,21 +404,21 @@ main h3 {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    min-width: 50px;
-    height: 50px;
+    min-width: 56px;
+    height: 56px;
     border-radius: 50%;
     background: linear-gradient(135deg, var(--sage-green) 0%, var(--light-sage) 100%);
     color: var(--soft-white);
     font-family: var(--font-display);
     font-weight: 900;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     flex-shrink: 0;
     box-shadow: var(--shadow-soft);
 }
 
 .protocol-text {
-    font-size: 1.05rem;
-    line-height: 1.8;
+    font-size: 1.1rem;
+    line-height: 1.9;
     color: var(--deep-forest);
     white-space: pre-line;
 }
@@ -1454,13 +1455,14 @@ main h3 {
     }
 
     .protocol-card {
-        padding: 35px;
+        padding: 45px;
     }
 
     .protocol-card h3 {
         flex-direction: column;
         align-items: flex-start;
-        font-size: 1.4rem;
+        font-size: 1.6rem;
+        margin-bottom: 24px;
     }
 
     .main-tab {
@@ -1497,15 +1499,16 @@ main h3 {
     }
 
     .protocol-card {
-        padding: 25px;
+        padding: 32px;
     }
 
     .protocol-text {
-        font-size: 1rem;
+        font-size: 1.05rem;
     }
 
     .protocols-grid {
-        gap: 24px;
+        gap: 28px;
+        max-width: 100%;
     }
 
     .protocol-detail-header {

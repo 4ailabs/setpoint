@@ -5,7 +5,7 @@ const tabs = [
         id: 'inicio', label: 'Inicio', html: `
 <header class="hero">
         <div class="container">
-            <span class="stat-label">Instittuto Centrobioenergetica</span>
+            <span class="stat-label">Instituto Centrobioenergetica</span>
             <h1>SET POINT</h1>
             <p class="hero-author">Dr. Miguel Ojeda Rios</p>
             <p>Descubre el secreto que cada kilo cuenta. Los conflictos emocionales se revelan en el tiempo y el cuerpo.
@@ -3159,7 +3159,7 @@ const tabs = [
 <p>Estos 33 protocolos te muestran CÓMO.</p>
 <p>Ahora... hazlo.</p>
 <p>Tu vida te espera.</p>
-<p>Instittuto Centrobioenergetica Ciudad de México www.institutocentrobioenergetica.com</p>
+<p>Instituto Centrobioenergetica Ciudad de México www.institutocentrobioenergetica.com</p>
 <blockquote>&quot;33 conflictos. 33 llaves. 33 caminos a la liberación.&quot;</blockquote>
 <blockquote>&quot;Tu obesidad fue una solución. Ahora tienes soluciones mejores.&quot;</blockquote>
 <blockquote>&quot;La mariposa bate sus alas. Y todo cambia.&quot;</blockquote>
@@ -3409,7 +3409,7 @@ export default function App() {
 
             <footer style={{ background: 'var(--primary-color)', color: 'var(--white)', padding: '50px 0', textAlign: 'center' }}>
                 <div className="container">
-                    <p>© 2026 Instittuto Centrobioenergetica</p>
+                    <p>© 2026 Instituto Centrobioenergetica</p>
                     <p style={{ fontSize: '0.8rem', opacity: 0.7, marginTop: 10 }}>Material de uso profesional. Prohibida su reproducción.</p>
                 </div>
             </footer>
