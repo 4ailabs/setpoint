@@ -1,8 +1,9 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
+import InicioTabContent from './InicioTabContent';
 
 const tabs = [
     {
-        id: 'inicio', label: 'Inicio', html: `
+        id: 'inicio', label: 'Inicio', component: InicioTabContent, html: `
 <header class="hero">
         <div class="container">
             <span class="stat-label">Instituto Centrobioenergetica</span>
@@ -3190,13 +3191,14 @@ function ProtocolsView({ protocols, selectedId, onSelect }) {
         }
     };
 
+    const protocolsGridRef = useRef(null);
+
     const scrollNav = (direction) => {
-        const el = document.querySelector('.protocols-index-grid'); // Fixed ref
+        const el = protocolsGridRef.current;
         if (!el) return;
         const amount = Math.round(el.clientWidth * 0.7) * direction;
-        if (typeof el.scrollBy === 'function') {
-            el.scrollBy({ left: amount, behavior: 'smooth' });
-        } else {
+        // Check if scrollBy is available (modern browsers) or fallback to scrollLeft
+        if (typeof el.scrollBy === 'function') { el.scrollBy({ left: amount, behavior: 'smooth' }); } else {
             el.scrollLeft += amount;
         }
     };
@@ -3210,7 +3212,7 @@ function ProtocolsView({ protocols, selectedId, onSelect }) {
                     <div className="divider"></div>
                 </div>
 
-                <div className="protocols-index-grid">
+                <div className="protocols-index-grid" ref={protocolsGridRef}>
                     {protocols.map((protocol) => (
                         <button
                             key={protocol.id}
@@ -3284,7 +3286,7 @@ export default function App() {
     const [selectedProtocol, setSelectedProtocol] = useState(null);
 
 
-    const activeHtml = useMemo(() => tabs.find((t) => t.id === activeTab)?.html ?? '', [activeTab]);
+    const activeTabContent = useMemo(() => tabs.find((t) => t.id === activeTab), [activeTab]);
 
     useEffect(() => {
         const handleClick = (event) => {
@@ -3403,7 +3405,11 @@ export default function App() {
                 {activeTab === 'protocolos' ? (
                     <ProtocolsView protocols={protocols} selectedId={selectedProtocol} onSelect={setSelectedProtocol} />
                 ) : (
-                    <div dangerouslySetInnerHTML={{ __html: activeHtml }} />
+                    activeTabContent.component ? (
+                        <activeTabContent.component />
+                    ) : (
+                        <div dangerouslySetInnerHTML={{ __html: activeTabContent.html }} />
+                    )
                 )}
             </main>
 
